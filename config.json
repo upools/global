@@ -1,1 +1,1 @@
-{"jokerpay":{"alipay":{"fixed":"48,96,197,293,495"},"pdd":{"fixed":"296, 387, 485, 1012, 1515, 1996, 2505, 2993"}},"sfjhpay":{"alipay":{"fixed":"1996,2000,3000,4000,5000,10000"}},"jinyupay":{"fixedAlipay":{"fixed":""},"fixedWechat":{"fixed":""}}}
+{"jokerpay":{"alipay":{"fixed":"1000,2000,3000,4000,5000"},"pdd":{"fixed":"296, 387, 485, 1012, 1515, 1996, 2505, 2993"}},"sfjhpay":{"alipay":{"fixed":"1996,2000,3000,4000,5000,10000"}},"jinyupay":{"fixedAlipay":{"fixed":""},"fixedWechat":{"fixed":""}}}
